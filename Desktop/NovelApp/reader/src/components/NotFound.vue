@@ -1,0 +1,13 @@
+<template>
+  <div class="">
+    <h3>404 - Not Found</h3>
+  </div>
+</template>
+
+<script>
+export default {
+}
+</script>
+
+<style>
+</style>
