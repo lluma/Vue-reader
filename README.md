@@ -1,5 +1,5 @@
 # Vue-reader
-- Open the virtual environment for backend to run on
+- Open the virtual environment for backend to run on\n
 $ source venv/bin/activate
 
 - On touch to run.py 
